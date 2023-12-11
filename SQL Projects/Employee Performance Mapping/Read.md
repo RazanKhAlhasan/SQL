@@ -3,7 +3,7 @@
 Raise the organization's performance by extracting specific data from employee's database by using **SQL**.
 
 
-## Table of Contents 🗒️ 📝
+## Table of Contents 📝
 - [Project Description](#project-description)
 - [Database Structure](#database-structure)
 - [Analysis Tasks](#analysis-tasks)
