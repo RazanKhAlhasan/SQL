@@ -1,8 +1,16 @@
+/*
+1- Create a database named employee, then import data_science_team.csv proj_table.csv and 
+emp_record_table.csv into the employee database from the given resources
+    */
 
--- 1
 CREATE DATABASE employee;
 USE employee;
 
+/*
+<p align="center">
+  <img src="https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176" width="200"/>
+</p>
+*/
 -- 3
 SELECT EMP_ID, FIRST_NAME, LAST_NAME, GENDER, DEPT
 FROM emp_record_table;
