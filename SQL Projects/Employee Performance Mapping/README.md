@@ -96,4 +96,4 @@ Razan Alhasan
 
 We value your feedback and are committed to providing the best possible support and assistance for your project analysis needs.
 
-Thank you for using the Employee Performance Mapping Project! 🙏
+Thank you for checking out the Employee Performance Mapping Project! 🙏
