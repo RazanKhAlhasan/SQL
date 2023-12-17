@@ -1,20 +1,20 @@
-# SQL (Structured Query Language) 🌟
+# SQL Projects Repository 🌟
 
-SQL is a programming language specifically designed for managing relational databases. 
-Its primary purpose is to perform tasks related to querying, manipulating, and managing data stored in a relational database management system (RDBMS). 
+Welcome to the SQL Projects Repository! This repository contains a collection of SQL projects, each focusing on different datasets and objectives. Explore various analyses, queries, and insights derived from SQL databases.
 
-## Here are the key aspects of SQL:
+## Folder Structure
 
-### 1. **Data Definition Language (DDL):** 
-DDL statements are responsible for defining and managing the structure of database objects, such as tables, indexes, and views. Common DDL statements include CREATE (to create objects), ALTER (to modify objects), and DROP (to remove objects).
+The repository is organized into folders, each representing a separate SQL project. These folders contain the necessary SQL scripts, data, and documentation for each project. 
 
-### 2. **Data Manipulation Language (DML):** 
-DML statements are used to manipulate the data within the database. With DML, you can perform operations like SELECT (to retrieve data), INSERT (to add new data), UPDATE (to modify existing data), and DELETE (to remove data).
+## Project Descriptions 
+Here's an overview of the projects included:
 
-### 3. **Data Control Language (DCL):** 
-DCL statements are utilized to control access to the database and manage user privileges. GRANT is used to grant permissions to users, while REVOKE is used to revoke those permissions.
+### Sales Analysis 📈
 
-### 4. **Data Query Language (DQL):** 
-DQL statements allow you to retrieve specific data from the database. The most commonly used DQL statement is SELECT, which enables you to specify the columns and conditions to filter and retrieve the desired data.
+A clothing company with multiple branches in many states in Australia that caters four groups (kids, women, men, seniors) wants to make investment decisions by getting in depth understanding of the company’s sales.
 
-In this repository, you will find a collection of SQL projects that I have worked on, which may be helpful for you. 👨‍💻🔍
+### Marketing Campaigns Analysis 🛍
+
+The Marketing Campaigns Analysis project aims to leverage exploratory data analysis (EDA) and hypothesis testing techniques to gain a comprehensive understanding of the factors that influence customer acquisition. The goal is to analyze marketing campaign data and extract valuable insights that can inform future marketing strategies.
+
+
