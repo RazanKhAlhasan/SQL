@@ -9,12 +9,12 @@ The repository is organized into folders, each representing a separate SQL proje
 ## Project Descriptions 
 Here's an overview of the projects included:
 
-### Sales Analysis 📈
+### Employee Performance Mapping 💼
 
-A clothing company with multiple branches in many states in Australia that caters four groups (kids, women, men, seniors) wants to make investment decisions by getting in depth understanding of the company’s sales.
+Generate reports on employee details, their performance, and the projects they have been involved in. These reports will help the HR department analyze the employee database and extract specific data based on different requirements. To facilitate a better understanding of employee performance, managers have provided performance ratings for each employee. In this project we will find the maximum salary among employees, ensure that all job positions meet the organization's profile standards, calculate bonuses to determine additional expenses, and identify employees who require training to improve overall performance.
 
-### Marketing Campaigns Analysis 🛍
+### Air Cargo Analysis 🛫
 
-The Marketing Campaigns Analysis project aims to leverage exploratory data analysis (EDA) and hypothesis testing techniques to gain a comprehensive understanding of the factors that influence customer acquisition. The goal is to analyze marketing campaign data and extract valuable insights that can inform future marketing strategies.
+Generate reports on regular passengers, busiest routs and ticket sales details, these reports will help the company to provide specific offers and determine the ticket sales details which will increase the company’s proficiency and producibility.
 
 
